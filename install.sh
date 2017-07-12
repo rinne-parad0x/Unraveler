@@ -10,10 +10,10 @@ chmod +x assemble.sh
 chmod +x shellcode.py
 chmod +x pyTest.py
 
-mv generate-shellcode.sh /bin/generate-shellcode.sh
-mv assemble.sh /bin/assemble.sh
-mv shellcode.py /bin/shellcode.py
-mv pyTest.py /bin/pyTest.py
+cp generate-shellcode.sh /bin/generate-shellcode.sh
+cp assemble.sh /bin/assemble.sh
+cp shellcode.py /bin/shellcode.py
+cp pyTest.py /bin/pyTest.py
 
 echo "[+] Done!" 
 
