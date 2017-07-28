@@ -1,6 +1,6 @@
 #!/usr/bin/zsh
 
-nasm -f32 elf -o $1.o $1.asm 2> /dev/null
+nasm -f elf64 -o $1.o $1.asm 2> /dev/null
 
 if [ $? -ne 0 ]; then
 	exit 1
