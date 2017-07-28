@@ -1,6 +1,6 @@
 # Unraveler
 
-Unraveler is a collection of some scripts automoate the task of shellcode writing and testing by doing assembling, linking, extracting shellcode, putting it in a C file, compiling and then running it. Usually so many repetitive tasks tend to consume too much time and therefore this project does that in an instant.
+Unraveler is a collection of some scripts automate the task of shellcode writing and testing by doing assembling, linking, extracting shellcode, putting it in a C file, compiling and then running it. Usually so many repetitive tasks tend to consume too much time and therefore this project does that in an instant.
 
 #  Features!
 
